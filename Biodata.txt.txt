@@ -1,0 +1,5 @@
+NIM 	:12211398
+NAMA 	:Dzakiyyah Darajati Syah Putri
+KELAS 	:12.3A.04
+PRODI 	:Sistem Informasi
+ALAMAT 	:Bekasi
