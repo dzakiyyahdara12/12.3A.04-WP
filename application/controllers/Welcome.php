@@ -20,7 +20,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('view_belajar');
+		$this->load->view('view-form-matakuliah');
 	}
 
 
